@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varsha Yes But</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Varsha Yes But</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <lastBuildDate>Sun, 20 Apr 2025 16:13:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/books/</link>
+      <pubDate>Sun, 20 Apr 2025 16:13:56 +0200</pubDate>
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;p&gt;This is a compilation of all the books I&amp;rsquo;ve read and reviewed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post Numero Uno</title>
+      <link>http://localhost:1313/post-numero-uno/</link>
+      <pubDate>Sun, 20 Apr 2025 16:13:11 +0200</pubDate>
+      <guid>http://localhost:1313/post-numero-uno/</guid>
+      <description>&lt;p&gt;This is my first blog post, and it is really nice to have a place to put my most random thoughts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hikes</title>
+      <link>http://localhost:1313/hikes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hikes/</guid>
+      <description>&lt;h1 id=&#34;hikes&#34;&gt;Hikes&lt;/h1&gt;&#xA;&lt;p&gt;In random order, because I forgot:&lt;/p&gt;&#xA;&lt;p&gt;Le Reculet&lt;br&gt;&#xA;Grottes de Vallorbe&lt;br&gt;&#xA;Gorge de l&amp;rsquo;Orbe&lt;br&gt;&#xA;Tour d&amp;rsquo;Ai&lt;br&gt;&#xA;Saleve&lt;br&gt;&#xA;Vineyard one in Valais&lt;br&gt;&#xA;Five to six lake hike&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/</guid>
+      <description>&lt;h1 id=&#34;work&#34;&gt;Work&lt;/h1&gt;&#xA;&lt;p&gt;Currently, I work as a Cloud Engineer at CERN. I work on OpenStack, my work involves working on the OpenStack services and disaster recovery.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I worked at Citrix as a DevOps engineer for 1.5 years, prior to which I interned in the same team for 6 months. I worked on Monitoring, Automation and Observability as Code. I also collaborated a bit with the security team.&lt;/p&gt;&#xA;&lt;h1 id=&#34;work-1&#34;&gt;Work+&lt;/h1&gt;&#xA;&lt;p&gt;At CERN, along with my job, I am also a guide for a few visit points.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

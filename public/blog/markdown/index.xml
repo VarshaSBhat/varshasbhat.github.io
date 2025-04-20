@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Varsha Yes But</title>
+    <link>http://localhost:1313/blog/markdown/</link>
+    <description>Recent content in Markdown on Varsha Yes But</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <lastBuildDate>Sun, 20 Apr 2025 16:13:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Numero Uno</title>
+      <link>http://localhost:1313/post-numero-uno/</link>
+      <pubDate>Sun, 20 Apr 2025 16:13:11 +0200</pubDate>
+      <guid>http://localhost:1313/post-numero-uno/</guid>
+      <description>&lt;p&gt;This is my first blog post, and it is really nice to have a place to put my most random thoughts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
