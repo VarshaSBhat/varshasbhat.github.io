@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on </title>
+    <link>http://localhost:1313/kn/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kn</language>
+    <managingEditor>me@example.com (John Doe)</managingEditor>
+    <webMaster>me@example.com (John Doe)</webMaster>
+    <atom:link href="http://localhost:1313/kn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/kn/posts/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>http://localhost:1313/kn/posts/first/</guid>
+      <description>&lt;h2 id=&#34;ನನನ-ಮದಲ-ಬಲಗ&#34;&gt;ನನ್ನ ಮೊದಲ ಬ್ಲಾಗ್&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;date-2025-05-22&#34;&gt;title: &amp;ldquo;ನನ್ನ ಮೊದಲ ಬ್ಲಾಗ್&amp;rdquo;&#xA;date: 2025-05-22&lt;/h2&gt;&#xA;&lt;p&gt;ಈ ಬ್ಲಾಗ್ ನನ್ನ ಮೊದಲ ಕನ್ನಡ ಬರಹವಾಗಿದೆ. ಧನ್ಯವಾದಗಳು ಓದಲು!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="ನನನ-ಮದಲ-ಬಲಗ">ನನ್ನ ಮೊದಲ ಬ್ಲಾಗ್</h2>
+<hr>
+<h2 id="date-2025-05-22">title: &ldquo;ನನ್ನ ಮೊದಲ ಬ್ಲಾಗ್&rdquo;
+date: 2025-05-22</h2>
+<p>ಈ ಬ್ಲಾಗ್ ನನ್ನ ಮೊದಲ ಕನ್ನಡ ಬರಹವಾಗಿದೆ. ಧನ್ಯವಾದಗಳು ಓದಲು!</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
